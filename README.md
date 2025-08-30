@@ -22,7 +22,7 @@ A simple Python script to delete a Discord webhook.
 Run the script:
 
 ```bash
-python webhook_deleter.py
+python WebhookDeleter.py
 ```
 
 ```bash
