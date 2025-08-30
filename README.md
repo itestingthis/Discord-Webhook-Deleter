@@ -1,4 +1,4 @@
-# Discord Webhook Deleter
+# Basic Discord Webhook Deleter
 
 A simple Python script to delete a Discord webhook.
 
