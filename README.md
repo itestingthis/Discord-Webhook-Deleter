@@ -19,18 +19,21 @@ Run the script:
 
 ```bash
 python webhook_deleter.py
-Enter the Discord webhook URL when prompted. The script will validate the URL and delete the webhook if it’s valid.
+```
 
-Example
-text
-Kodu kopyala
+```bash
 Webhook URL : https://discord.com/api/webhooks/123456789012345678/AbCdEfGhIjKlMnOpQrStUvWxYz9876543210
 Deleting Webhook...
 Webhook Deleted
 Press Enter to exit...
-Notes
-Make sure you have permission to delete the webhook.
+```
+
+## Notes:
+
+Educational purposes only.
+Use at your own risk
+
 
 Use this script responsibly.
 
-Created quickly as a fun project — don’t judge! 😄
+# Created quickly as a fun project — don’t judge! 😄
