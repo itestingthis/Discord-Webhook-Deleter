@@ -2,6 +2,10 @@
 
 A simple Python script to delete a Discord webhook.
 
+# CODE
+<img width="1172" height="1014" alt="webhookcode2" src="https://github.com/user-attachments/assets/62487fc2-6972-4ccc-8cc0-489fb97aa207" />
+
+
 ## Features
 
 - Validates if the input is a Discord webhook URL.
